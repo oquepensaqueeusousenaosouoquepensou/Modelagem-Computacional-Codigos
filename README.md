@@ -12,8 +12,8 @@ Para esclarecimento de dúvidas, observações ou considerações, devem ser fei
 <br>
 <p>🎯 Incentivo Acadêmico</p>
 Merenda patrocinada pelo professor enquanto as coisas estiverem andando! Bora trabalhar
-
-
+<br>
+<br>
 <p>Link do arquivo compartilhado</p>
 https://docs.google.com/document/d/1hE_-yaIoK1f39J7EDatc0gZJW4u4Ob9Fw9vqGQjLlJQ/edit?usp=sharing
 
